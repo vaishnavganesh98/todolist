@@ -1,0 +1,30 @@
+a{
+    border: 1px hidden black;
+    margin: 15px;
+    font-size: x-large;
+}
+
+body{
+    background-attachment: fixed;
+}
+
+.navbar{
+
+    background: transparent !important;
+}
+
+li{
+    color: white;
+}
+
+.table{
+    background: transparent !important; 
+}
+
+th{
+    color: yellow;
+}
+
+td{
+    color: orange;
+}
