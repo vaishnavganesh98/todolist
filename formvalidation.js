@@ -3,7 +3,7 @@ var user = document.getElementById("username");
 var pwd = document.getElementById("pass");
 function validate(callback){
     if(user.value=="admin"){
-        if(pwd.value==1234){
+        if(pwd.value==12345){
             callback();    
         }
         else{
